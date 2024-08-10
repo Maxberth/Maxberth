@@ -9,10 +9,6 @@
 - 💪🏼 Metas futuras: Aprender más tecnologías, como lo son lo relativo a web 3.
 - ⚡ Dato curioso: Me encanta jugar billar y probar cosas nuevas.
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-77afiu7zh-maxberths-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Alberth)
-
 
 ---
 
